@@ -1,0 +1,24 @@
+## Interface: 30300
+## Title: Extended Vendor UI |cffffffffv1.5.3
+## Notes: Extends the merchant interface for easier browsing.
+## Notes-ruRU: Расширяет окно торговцев, упрощая работу в ней.
+## Author: Germbread , traslated and adaptation for sirus - Stekolnyu
+## Version: 1.5.3
+## SavedVariables: EXTVENDOR_DATA
+## X-Email: germbread@gmail.com
+
+lib\LibStub.lua
+lib\AceLocale-3.0.lua
+
+embeds.xml
+
+
+locale\ruRU.lua
+
+QuickVendorConfig\Templates.xml
+
+ExtVendor.xml
+SellJunkPopup.xml
+QuickVendorConfig\QuickVendorConfig.xml
+config\Config.xml
+config\about.xml
